@@ -11,7 +11,7 @@ namespace SE.Mia2
         static void Main(string[] args)
         {
             int num1 = 6;
-            int num2 = 7;
+            int num2 = 9;
             int num3 = 8;
 
             Console.WriteLine("These are my favourite numbers" + num1 + num2 + num3);
