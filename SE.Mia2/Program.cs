@@ -12,7 +12,7 @@ namespace SE.Mia2
         {
             int num1 = 6;
             int num2 = 7;
-            int num3 = 10;
+            int num3 = 8;
 
             Console.WriteLine("These are my favourite numbers" + num1 + num2 + num3);
         }
