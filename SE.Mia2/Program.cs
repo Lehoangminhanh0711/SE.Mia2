@@ -13,7 +13,7 @@ namespace SE.Mia2
             int num1 = 6;
             int num2 = 7;
 
-            Console.WriteLine("These are my favourite number" + num1 + num2);
+            Console.WriteLine("These are my favourite numbers" + num1 + num2);
         }
     }
 }
