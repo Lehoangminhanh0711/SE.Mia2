@@ -10,7 +10,7 @@ namespace SE.Mia2
     {
         static void Main(string[] args)
         {
-            int num1 = 6;
+            int num1 = 2;
             int num2 = 9;
             int num3 = 8;
 
