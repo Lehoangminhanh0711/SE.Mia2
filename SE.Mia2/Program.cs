@@ -10,6 +10,10 @@ namespace SE.Mia2
     {
         static void Main(string[] args)
         {
+            int num1 = 6;
+            int num2 = 7;
+
+            Console.WriteLine("These are my favourite number" + num1 + num2);
         }
     }
 }
